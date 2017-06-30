@@ -3,9 +3,7 @@
 Unit Testing of Feed Reader App.
 Technologies used: Jasmin Testing Framework, JavaScript, jQuery
 
-## How to use?
-
-[Open this Link](https://h-ARTS.github.io/p6)
+#### Demo: [Preview](https://h-ARTS.github.io/p6)
 
 ## Which tests are demonstrated?
 
